@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi
+
+- I'm currently working on [openstates](https://github.com/openstates), which is (almost) a full time job.
+- I am also doing occasional freelance work, with limited availability.  You can [get in touch](contact@jamesturk.net) if you want to discuss a project.
+
 
 <!--
 **jamesturk/jamesturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
