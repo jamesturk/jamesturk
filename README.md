@@ -1,7 +1,7 @@
 ### Hi
 
 - I'm currently working on [Open States](https://github.com/openstates).
-- I am also doing occasional freelance work, with limited availability.  You can [get in touch](contact@jamesturk.net) if you want to discuss a project.
+- I am also doing occasional freelance work, with limited availability.  You can [get in touch](mailto:james@stateautomata.com) if you want to discuss a project.
 
 
 <!--
