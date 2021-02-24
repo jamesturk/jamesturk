@@ -1,12 +1,10 @@
-### Hi!
+| Current Work   | Side Project          | Contact |
+|----------------|-----------------------|-----------|
+| [Open States](https://github.com/openstates) | [spatula](https://github.com/jamesturk/spatula) | [get in touch](mailto:dev@jamesturk.net)  |
 
-- I'm currently working on [Open States](https://github.com/openstates).
-- I am also doing occasional freelance work, with limited availability.  You can [get in touch](mailto:james@stateautomata.com) if you want to discuss a project.
 
 
 <!--
-**jamesturk/jamesturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
