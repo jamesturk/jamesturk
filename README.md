@@ -1,6 +1,7 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
+| [openstates](https://github.com/jamesturk/openstates) | 6.6.0 | 2021-10-08 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 0.8.8 | 2021-08-17 |
 | [spatula](https://github.com/jamesturk/spatula) | 0.8.5 | 2021-08-09 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.0.6 | 2021-06-23 |

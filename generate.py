@@ -8,6 +8,7 @@ python_projects = [
     "rrl",
     "jellyfish",
     "django-markupfield",
+    "openstates",
 ]
 
 
