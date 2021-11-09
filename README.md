@@ -1,7 +1,7 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.8.1 | 2021-11-04 |
+| [openstates](https://github.com/openstates/) | 6.8.2 | 2021-11-08 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 0.8.9 | 2021-10-26 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.0.2 | 2021-10-25 |
 | [django-markupfield](https://github.com/jamesturk/django-markupfield) | 2.0.1 | 2021-10-25 |
