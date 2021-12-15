@@ -1,7 +1,7 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
-| [spatula](https://github.com/jamesturk/spatula) | 0.8.8 | 2021-12-09 |
+| [spatula](https://github.com/jamesturk/spatula) | 0.8.9 | 2021-12-14 |
 | [openstates](https://github.com/openstates/) | 6.9.2 | 2021-11-29 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 0.8.9 | 2021-10-26 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.0.2 | 2021-10-25 |
