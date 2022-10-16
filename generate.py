@@ -9,6 +9,7 @@ python_projects = [
     "jellyfish",
     "django-markupfield",
     "openstates",
+    "gcr-cli",
 ]
 
 
@@ -50,12 +51,5 @@ def format_as_markdown(releases):
 
 
 if __name__ == "__main__":
-    # print()
-    # print("## Open States")
-    # print("[Open States GitHub](https://github.com/openstates/)")
-    # print()
     print("## Latest Releases")
     print(format_as_markdown(get_latest_releases()))
-    # print()
-    # print("## Get In Touch")
-    # print("[email](mailto:dev@jamesturk.net)")
