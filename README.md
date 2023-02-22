@@ -1,7 +1,7 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.15.3 | 2023-02-14 |
+| [openstates](https://github.com/openstates/) | 6.15.4 | 2023-02-21 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.1.0 | 2022-11-07 |
 | [gcr-cli](https://github.com/jamesturk/gcr-cli) | 0.1.0 | 2022-10-15 |
 | [spatula](https://github.com/jamesturk/spatula) | 0.9.0 | 2022-02-10 |
