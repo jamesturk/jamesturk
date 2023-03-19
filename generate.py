@@ -6,6 +6,7 @@ python_projects = [
     "scrapelib",
     "django-honeypot",
     "rrl",
+    "scrapeghost",
     "jellyfish",
     "django-markupfield",
     "openstates",
