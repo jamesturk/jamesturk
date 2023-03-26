@@ -1,8 +1,8 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
+| [jellyfish](https://github.com/jamesturk/jellyfish) | 0.11.0a3 | 2023-03-26 |
 | [scrapeghost](https://github.com/jamesturk/scrapeghost) | 0.4.1 | 2023-03-25 |
-| [jellyfish](https://github.com/jamesturk/jellyfish) | 0.11.0a1 | 2023-03-25 |
 | [openstates](https://github.com/openstates/) | 6.15.5 | 2023-02-24 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.1.0 | 2022-11-07 |
 | [gcr-cli](https://github.com/jamesturk/gcr-cli) | 0.1.0 | 2022-10-15 |
