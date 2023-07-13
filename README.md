@@ -1,10 +1,10 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
+| [openstates](https://github.com/openstates/) | 6.16.7 | 2023-07-12 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 1.0.0 | 2023-06-23 |
 | [scrapeghost](https://github.com/jamesturk/scrapeghost) | 0.5.1 | 2023-06-13 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.2.0 | 2023-05-18 |
-| [openstates](https://github.com/openstates/) | 6.16.5 | 2023-05-16 |
 | [gcr-cli](https://github.com/jamesturk/gcr-cli) | 0.1.0 | 2022-10-15 |
 | [spatula](https://github.com/jamesturk/spatula) | 0.9.0 | 2022-02-10 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.0.3 | 2022-01-26 |
