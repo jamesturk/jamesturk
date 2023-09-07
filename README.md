@@ -1,7 +1,7 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.17.6 | 2023-09-01 |
+| [openstates](https://github.com/openstates/) | 6.17.7 | 2023-09-06 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 1.0.0 | 2023-06-23 |
 | [scrapeghost](https://github.com/jamesturk/scrapeghost) | 0.5.1 | 2023-06-13 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.2.0 | 2023-05-18 |
