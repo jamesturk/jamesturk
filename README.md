@@ -1,8 +1,8 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
+| [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.1.0 | 2023-12-09 |
 | [scrapeghost](https://github.com/jamesturk/scrapeghost) | 0.6.0 | 2023-11-25 |
-| [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.0.4 | 2023-11-17 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 1.0.3 | 2023-11-17 |
 | [openstates](https://github.com/openstates/) | 6.17.11 | 2023-10-26 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.2.0 | 2023-05-18 |
