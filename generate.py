@@ -10,7 +10,6 @@ python_projects = [
     "jellyfish",
     "django-markupfield",
     "openstates",
-    "gcr-cli",
 ]
 
 
