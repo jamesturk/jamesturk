@@ -1,7 +1,7 @@
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.19.0 | 2024-04-05 |
+| [openstates](https://github.com/openstates/) | 6.19.1 | 2024-04-18 |
 | [scrapelib](https://github.com/jamesturk/scrapelib) | 2.3.0 | 2023-12-15 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.1.0 | 2023-12-09 |
 | [scrapeghost](https://github.com/jamesturk/scrapeghost) | 0.6.0 | 2023-11-25 |
