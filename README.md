@@ -1,5 +1,3 @@
-:wave: I'm currently in the process of migrating newer code to [sourcehut](https://sr.ht/~jpt/) -- once I do I'll make sure there are appropriate links/etc. there, and older projects will likely stay here indefinitely.
-
 ## Latest Releases
 | package | version | released |
 |--------------|-----------|-------------|
