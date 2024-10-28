@@ -46,7 +46,11 @@ def format_as_markdown(releases):
         "| [{package}]({url}) | {version} | {published} |".format(**proj)
         for proj in releases
     ]
-    header = """| package | version | released |\n|--------------|-----------|-------------|\n"""
+    header = """I am in the process of moving most of my work off GitHub, see <https://git.sr.ht/~jpt> for experiments & new work.
+    
+    Major repositories will remain here for the time being.
+    
+    | package | version | released |\n|--------------|-----------|-------------|\n"""
     return header + "\n".join(rows)
 
 
