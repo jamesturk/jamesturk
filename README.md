@@ -1,5 +1,9 @@
 ## Latest Releases
-| package | version | released |
+I am in the process of moving most of my work off GitHub, see <https://git.sr.ht/~jpt> for experiments & new work.
+    
+    Major repositories will remain here for the time being.
+    
+    | package | version | released |
 |--------------|-----------|-------------|
 | [openstates](https://github.com/openstates/) | 6.20.8 | 2024-10-18 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.2.1 | 2024-08-03 |
