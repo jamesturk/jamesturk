@@ -1,11 +1,11 @@
 ## Latest Releases
 I am in the process of moving most of my work off GitHub, see <https://git.sr.ht/~jpt> for experiments & new work.
+
+Major repositories will remain here for the time being.
     
-    Major repositories will remain here for the time being.
-    
-    | package | version | released |
+| package | version | released |
 |--------------|-----------|-------------|
-| [jellyfish](https://github.com/jamesturk/jellyfish) | 1.1.2 | 2024-12-03 |
+| [jellyfish](https://github.com/jamesturk/jellyfish) | 1.1.3 | 2024-12-14 |
 | [openstates](https://github.com/openstates/) | 6.20.12 | 2024-11-22 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.2.1 | 2024-08-03 |
 | [spatula](https://github.com/jamesturk/spatula) | 0.9.1 | 2024-07-10 |
