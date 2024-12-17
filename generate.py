@@ -46,7 +46,7 @@ def format_as_markdown(releases):
         "| [{package}]({url}) | {version} | {published} |".format(**proj)
         for proj in releases
     ]
-    header = """I am in the process of moving most of my work off GitHub, see <https://git.sr.ht/~jpt> for experiments & new work.
+    header = """I am in the process of moving most of my work off GitHub, see <https://git.unnamed.computer> for experiments & new work.
 
 Major repositories will remain here for the time being.
     
