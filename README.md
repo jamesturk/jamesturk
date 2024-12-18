@@ -1,5 +1,5 @@
 ## Latest Releases
-I am in the process of moving most of my work off GitHub, see <https://git.sr.ht/~jpt> for experiments & new work.
+I am in the process of moving most of my work off GitHub, see <https://git.unnamed.computer> for experiments & new work.
 
 Major repositories will remain here for the time being.
     
