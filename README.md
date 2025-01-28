@@ -5,7 +5,7 @@ Existing collaborative repositories will remain here for now.
     
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.20.13 | 2024-12-27 |
+| [openstates](https://github.com/openstates/) | 6.20.14 | 2025-01-27 |
 | [jellyfish](https://github.com/jamesturk/jellyfish) | 1.1.3 | 2024-12-14 |
 | [django-honeypot](https://github.com/jamesturk/django-honeypot) | 1.2.1 | 2024-08-03 |
 | [spatula](https://github.com/jamesturk/spatula) | 0.9.1 | 2024-07-10 |
