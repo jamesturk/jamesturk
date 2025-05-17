@@ -5,7 +5,6 @@ python_projects = [
     "spatula",
     "scrapelib",
     "django-honeypot",
-    "rrl",
     "scrapeghost",
     "jellyfish",
     "django-markupfield",
@@ -17,7 +16,7 @@ def get_url(package):
     if package == "openstates":
         return "https://github.com/openstates/"
     else:
-        return f"https://github.com/jamesturk/{package}"
+        return f"https://codeberg.org/jpt/{package}"
 
 
 def get_release(name):
@@ -46,10 +45,12 @@ def format_as_markdown(releases):
         "| [{package}]({url}) | {version} | {published} |".format(**proj)
         for proj in releases
     ]
-    header = """I have decided to move my work off GitHub. See <https://git.unnamed.computer/jpt> for experiments & new work.
+    header = """I have decided to move my work off GitHub. 
 
-Existing collaborative repositories will remain here for now.
+    Repositories with lots of collaborators/users have been moved to <https://codeberg.org/jpt/> with issues/etc. intact.
     
+    See <https://git.unnamed.computer/jpt> for experiments & new work.
+
 | package | version | released |\n|--------------|-----------|-------------|\n"""
     return header + "\n".join(rows)
 
