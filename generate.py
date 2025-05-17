@@ -45,16 +45,18 @@ def format_as_markdown(releases):
         "| [{package}]({url}) | {version} | {published} |".format(**proj)
         for proj in releases
     ]
-    header = """I have decided to move my work off GitHub. 
+    header = """I have decided to move my work off GitHub.
 
     Repositories with lots of collaborators/users have been moved to <https://codeberg.org/jpt/> with issues/etc. intact.
     
     See <https://git.unnamed.computer/jpt> for experiments & new work.
+
+    <https://jpt.sh> for other things!
 
 | package | version | released |\n|--------------|-----------|-------------|\n"""
     return header + "\n".join(rows)
 
 
 if __name__ == "__main__":
-    print("## Latest Releases")
+    print("## Find Me Elsewhere")
     print(format_as_markdown(get_latest_releases()))
