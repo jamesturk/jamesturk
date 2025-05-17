@@ -7,8 +7,8 @@ python_projects = [
     "django-honeypot",
     "scrapeghost",
     "jellyfish",
-    "django-markupfield",
     "openstates",
+    "django-markupfield",
 ]
 
 
