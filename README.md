@@ -9,7 +9,7 @@ See <https://git.unnamed.computer/jpt> for experiments & new work.
 
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.22.3 | 2025-05-15 |
+| [openstates](https://github.com/openstates/) | 6.23.0 | 2025-05-21 |
 | [jellyfish](https://codeberg.org/jpt/jellyfish) | 1.2.0 | 2025-03-31 |
 | [django-honeypot](https://codeberg.org/jpt/django-honeypot) | 1.2.1 | 2024-08-03 |
 | [spatula](https://codeberg.org/jpt/spatula) | 0.9.1 | 2024-07-10 |
