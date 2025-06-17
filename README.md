@@ -1,5 +1,5 @@
 ## Find Me Elsewhere
-I have decided to move my work off GitHub.
+I have decided to move my work off GitHub. ([why?](https://sfconservancy.org/GiveUpGitHub/))
 
 Repositories with lots of collaborators/users have been moved to <https://codeberg.org/jpt/> with issues/etc. intact.
     
