@@ -48,10 +48,8 @@ def format_as_markdown(releases):
     header = """I have decided to move my work off GitHub. ([why?](https://sfconservancy.org/GiveUpGitHub/))
 
 Repositories with lots of collaborators/users have been moved to <https://codeberg.org/jpt/> with issues/etc. intact.
-    
-See <https://git.unnamed.computer/jpt> for experiments & new work.
 
-<https://jpt.sh> for other things!
+other things @ <https://jpt.sh>
 
 | package | version | released |\n|--------------|-----------|-------------|\n"""
     return header + "\n".join(rows)
