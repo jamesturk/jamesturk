@@ -7,7 +7,7 @@ other things @ <https://jpt.sh>
 
 | package | version | released |
 |--------------|-----------|-------------|
-| [scrapelib](https://codeberg.org/jpt/scrapelib) | 2.4.0 | 2025-06-26 |
+| [scrapelib](https://codeberg.org/jpt/scrapelib) | 2.4.1 | 2025-07-02 |
 | [openstates](https://github.com/openstates/) | 6.24.2 | 2025-06-24 |
 | [django-honeypot](https://codeberg.org/jpt/django-honeypot) | 1.3.0 | 2025-06-13 |
 | [jellyfish](https://codeberg.org/jpt/jellyfish) | 1.2.0 | 2025-03-31 |
