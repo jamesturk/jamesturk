@@ -45,7 +45,7 @@ def format_as_markdown(releases):
         "| [{package}]({url}) | {version} | {published} |".format(**proj)
         for proj in releases
     ]
-    header = """I have decided to move my work off GitHub. ([why?](https://sfconservancy.org/GiveUpGitHub/))
+    header = """I have decided to move my work off GitHub. ([why?](https://www.jpt.sh/posts/quitting-github/))
 
 Repositories with lots of collaborators/users have been moved to <https://codeberg.org/jpt/> with issues/etc. intact.
 
