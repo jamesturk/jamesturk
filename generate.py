@@ -9,6 +9,8 @@ python_projects = [
     "jellyfish",
     "openstates",
     "django-markupfield",
+    "careful",
+    "whsk",
 ]
 
 
