@@ -11,6 +11,7 @@ python_projects = [
     "django-markupfield",
     "careful",
     "whsk",
+    "gcr-cli",
 ]
 
 
