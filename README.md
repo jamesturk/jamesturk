@@ -7,7 +7,7 @@ other things @ <https://jpt.sh>
 
 | package | version | released |
 |--------------|-----------|-------------|
-| [openstates](https://github.com/openstates/) | 6.26.1 | 2026-09-29 |
+| [openstates](https://github.com/openstates/) | 6.26.2 | 2026-10-07 |
 | [gcr-cli](https://codeberg.org/jpt/gcr-cli) | 0.3.2 | 2026-09-03 |
 | [careful](https://codeberg.org/jpt/careful) | 0.5.0 | 2026-08-06 |
 | [whsk](https://codeberg.org/jpt/whsk) | 0.3.1 | 2026-01-17 |
