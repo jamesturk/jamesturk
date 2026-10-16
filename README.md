@@ -7,12 +7,12 @@ other things @ <https://jpt.sh>
 
 | package | version | released |
 |--------------|-----------|-------------|
+| [jellyfish](https://codeberg.org/jpt/jellyfish) | 1.3.0 | 2026-10-16 |
 | [openstates](https://github.com/openstates/) | 6.26.3 | 2026-10-08 |
 | [gcr-cli](https://codeberg.org/jpt/gcr-cli) | 0.3.2 | 2026-09-03 |
 | [careful](https://codeberg.org/jpt/careful) | 0.5.0 | 2026-08-06 |
 | [whsk](https://codeberg.org/jpt/whsk) | 0.3.1 | 2026-01-17 |
 | [spatula](https://codeberg.org/jpt/spatula) | 1.0.0 | 2025-10-31 |
-| [jellyfish](https://codeberg.org/jpt/jellyfish) | 1.2.1 | 2025-10-11 |
 | [scrapelib](https://codeberg.org/jpt/scrapelib) | 2.4.1 | 2025-07-02 |
 | [django-honeypot](https://codeberg.org/jpt/django-honeypot) | 1.3.0 | 2025-06-13 |
 | [scrapeghost](https://codeberg.org/jpt/scrapeghost) | 0.6.0 | 2023-11-25 |
