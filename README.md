@@ -7,8 +7,8 @@ other things @ <https://jpt.sh>
 
 | package | version | released |
 |--------------|-----------|-------------|
+| [openstates](https://github.com/openstates/) | 6.26.4 | 2026-10-24 |
 | [jellyfish](https://codeberg.org/jpt/jellyfish) | 1.3.0 | 2026-10-16 |
-| [openstates](https://github.com/openstates/) | 6.26.3 | 2026-10-08 |
 | [gcr-cli](https://codeberg.org/jpt/gcr-cli) | 0.3.2 | 2026-09-03 |
 | [careful](https://codeberg.org/jpt/careful) | 0.5.0 | 2026-08-06 |
 | [whsk](https://codeberg.org/jpt/whsk) | 0.3.1 | 2026-01-17 |
